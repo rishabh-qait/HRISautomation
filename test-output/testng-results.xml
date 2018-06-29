@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10845" started-at="2018-06-26T11:12:38Z" finished-at="2018-06-26T11:12:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10845" started-at="2018-06-26T11:12:38Z" finished-at="2018-06-26T11:12:49Z">
+      <class name="com.qait.hrisautomation.Hris.HrisAutomationTest">
+        <test-method status="PASS" signature="createclassobjects()[pri:0, instance:com.qait.hrisautomation.Hris.HrisAutomationTest@7857fe2]" name="createclassobjects" is-config="true" duration-ms="17" started-at="2018-06-26T11:12:38Z" finished-at="2018-06-26T11:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createclassobjects -->
+        <test-method status="PASS" signature="test1_attempt_login_with_incorrect_credentials()[pri:0, instance:com.qait.hrisautomation.Hris.HrisAutomationTest@7857fe2]" name="test1_attempt_login_with_incorrect_credentials" duration-ms="766" started-at="2018-06-26T11:12:38Z" finished-at="2018-06-26T11:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_attempt_login_with_incorrect_credentials -->
+        <test-method status="PASS" signature="test2_attempt_login_with_correct_credentials()[pri:0, instance:com.qait.hrisautomation.Hris.HrisAutomationTest@7857fe2]" name="test2_attempt_login_with_correct_credentials" duration-ms="10020" started-at="2018-06-26T11:12:38Z" finished-at="2018-06-26T11:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_attempt_login_with_correct_credentials -->
+      </class> <!-- com.qait.hrisautomation.Hris.HrisAutomationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
